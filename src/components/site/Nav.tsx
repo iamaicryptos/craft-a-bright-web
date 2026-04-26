@@ -14,7 +14,7 @@ const Nav = () => {
       </div>
       <div className="flex items-center gap-6">
         <div className="hidden md:flex items-center gap-2 text-xs font-mono text-foreground/50">
-          <span className="block size-1.5 bg-emerald-500 rounded-full animate-pulse" />
+          <span className="block size-1.5 bg-accent rounded-full animate-pulse" />
           System Operational
         </div>
         <a href="#" className="text-sm font-medium hover:text-accent transition-colors">Log in</a>
